@@ -1,0 +1,5 @@
+transformers>=4.30.0
+torchaudio
+datasets
+gradio
+soundfile
